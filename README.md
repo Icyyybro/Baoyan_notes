@@ -7,4 +7,4 @@
 3. 机试题目
 
 
-此笔记参考了CS-notes仓库，地址：
+此笔记参考了CS-notes仓库，地址：https://github.com/CyC2018/CS-Notes
